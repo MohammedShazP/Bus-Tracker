@@ -15,7 +15,7 @@ db.sqlite3
 
 # Environment variables
 .env
-.env.*
+!.env.example
 
 # Static and media (if generated locally)
 staticfiles/
